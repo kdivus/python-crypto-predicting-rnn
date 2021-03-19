@@ -1,0 +1,3 @@
+# python-crypto-predicting-rnn
+
+Working on crypto prediticting RNN model, still in progress...
